@@ -1,0 +1,18 @@
+[
+    {
+      "Id": "d2a7c9b8-4497-4baf-8d82-11228bb84856",
+      "Title": "The Catcher in the Rye",
+      "Author": "J.D. Salinger"
+    },
+    {
+      "Id": "e3b07f30-27d4-4d44-bbf6-fb447a7b7b80",
+      "Title": "To Kill a Mockingbird",
+      "Author": "Harper Lee"
+    },
+    {
+      "Id": "f4f7e170-12d2-4eab-9e2a-72e87a5c8e18",
+      "Title": "1984",
+      "Author": "George Orwell"
+    }
+  ]
+  
